@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "dunstontc.vscode-docker-syntax",
+        "ms-azuretools.vscode-azurestaticwebapps",
+        "amazonwebservices.aws-toolkit-vscode"
+    ]
+}
